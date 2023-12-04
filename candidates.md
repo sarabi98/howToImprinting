@@ -10,6 +10,8 @@ A13.R17680514
 
 d1463350857414
 
+Chromosome_1 89014188 597
+
 -0.999275
 
 ![image](https://github.com/sarabi98/howToImprinting/assets/94226596/a9f493e1-ef4b-415a-b0de-e35df94eb8dc)
