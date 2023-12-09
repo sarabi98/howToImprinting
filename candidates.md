@@ -70,3 +70,6 @@ A16.S11908149
 
 ![image](https://github.com/sarabi98/howToImprinting/assets/94226596/f46af3f9-8361-454a-bc89-24a114e8a295)
 ![image](https://github.com/sarabi98/howToImprinting/assets/94226596/456abe60-18db-43b2-a4f9-bfcece971e5c)
+
+
+https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastx&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
